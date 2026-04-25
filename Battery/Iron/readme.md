@@ -1,0 +1,2 @@
+- [Iron Battery 1.5 Build Instructions](https://youtu.be/h-dNBP-l2ro)
+- [Iron Battery 2.0: 250X More Power! Publication announcement (fixed)](https://youtu.be/z6vcbXLKJR0)
